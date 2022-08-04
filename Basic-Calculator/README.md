@@ -8,4 +8,4 @@ Swift UIKit Basic Calculator
 
 
 
-![Calculator](https://raw.githubusercontent.com/eyupfidan/Basic-Calculator/main/assets/calculator.gif)
+![Calculator](https://raw.githubusercontent.com/eyupfidan/swift-projects/main/Basic-Calculator/assets/calculator.gif)
