@@ -7,4 +7,4 @@ Using Timer Class UIKit
 
 
 
-![TimerProject](https://raw.githubusercontent.com/eyupfidan/TimerProject/main/assets/timer.gif)
+![TimerProject](https://raw.githubusercontent.com/eyupfidan/swift-projects/main/TimerProject/assets/timer.gif)
