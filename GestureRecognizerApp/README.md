@@ -7,4 +7,4 @@ Using GestureRecognizer
 
 
 
-![GestureRecognizerApp](https://raw.githubusercontent.com/eyupfidan/GestureRecognizerApp/main/assets/GestureRecognizerApp.gif)
+![GestureRecognizerApp](https://raw.githubusercontent.com/eyupfidan/swift-projects/main/GestureRecognizerApp/assets/GestureRecognizerApp.gif)
